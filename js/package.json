@@ -1,0 +1,10 @@
+{
+    "name": "translate-i18n",
+    "type": "commonjs",
+    "engines": { "node": ">=12.22.7" },
+    "exports": {
+      ".": "./dist/index.js",
+      "./package.json": "./package.json"
+    }
+  }
+  
