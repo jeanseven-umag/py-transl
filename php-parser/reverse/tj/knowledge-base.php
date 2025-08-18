@@ -1,0 +1,22 @@
+<?php
+return [
+    'choose_section' => 'Қисмро интихоб кунед:',
+    'acceptance' => 'Қабулкунӣ',
+    'revision' => 'Инвентаризатсия',
+    'reports' => 'Ҳисоботҳо',
+    'loyalty_system' => 'Системаи вафодорӣ',
+    'subscription' => 'Обуна',
+    'finance' => 'Молия',
+    'goods' => 'Молҳо',
+    'sales' => 'Фурӯшҳо',
+    'directory' => 'Маълумотнома',
+    'cash_register' => 'Касса',
+    'help' => 'Чӣ гуна метавонем ба шумо кӯмак кунем?',
+    'find_answers' => 'Ҷавобҳоро ёбед',
+    'top_questions' => '5 савол ва дастурҳои беҳтарин:',
+    'faq' => 'Саволҳо-Ҷавобҳо',
+    'instruction' => 'Дастур',
+    'video_lessons' => 'Видео дарсҳо',
+    'choose_platform' => 'Платформаро интихоб кунед:',
+    'cabinet_sale' => 'Фурӯшҳои кабинетӣ',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+    'choose_section' => 'Выберите раздел:',
+    'acceptance' => 'Приемка',
+    'revision' => 'Инвентаризация',
+    'reports' => 'Отчеты',
+    'loyalty_system' => 'Система лояльности',
+    'subscription' => 'Подписка',
+    'finance' => 'Финансы',
+    'goods' => 'Товары',
+    'sales' => 'Продажи',
+    'directory' => 'Справочник',
+    'cash_register' => 'Касса',
+    'help' => 'Чем мы можем вам помочь?',
+    'find_answers' => 'Найти ответы',
+    'top_questions' => 'Топ 5 вопросов и инструкций:',
+    'faq' => 'Вопросы-Ответы',
+    'instruction' => 'Инструкция',
+    'video_lessons' => 'Видео-уроки',
+    'choose_platform' => 'Выберите платформу:',
+    "cabinet_sale" => 'Кабинетные продажи',
+];
